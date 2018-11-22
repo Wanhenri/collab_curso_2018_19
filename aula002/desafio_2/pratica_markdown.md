@@ -189,7 +189,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 |    n     |               |       |   |   |   |   |   |   |
 | col n is |               |       |   |   |   |   |   |   |
 
-**Figura desenvolvida utilizando dados do Sistema de Modelagem Global, versão 2.1.0 e versão 2.0.0 **
+**Figura desenvolvida utilizando dados do Sistema de Modelagem Global, versão 2.1.0 e versão 2.0.0**
 
 ![Figura desenvolvida utilizando dados do Sistema de Modelagem Global, versão 2.1.0 e versão 2.0.0](https://github.com/Wanhenri/taylor_funci_S/blob/master/img/taylor-verao_panel-br_2_SMG.png)
 
