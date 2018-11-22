@@ -134,6 +134,19 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <br />
+<p>ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+<p>ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <p>**Figura e link mera ilustrativo**</P
 
@@ -149,3 +162,19 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 |    n     |               |       |   |   |   |   |   |   |
 |    n     |               |       |   |   |   |   |   |   |
 | col n is |               |       |   |   |   |   |   |   |
+
+**Figura desenvolvida utilizando dados do Sistema de Modelagem Global, versão 2.1.0 e versão 2.0.0 **
+
+![Figura desenvolvida utilizando dados do Sistema de Modelagem Global, versão 2.1.0 e versão 2.0.0](https://github.com/Wanhenri/taylor_funci_S/blob/master/img/taylor-verao_panel-br_2_SMG.png)
+
+Fonte: *teste teste teste 222*.
+***
+
+<br />
+<p>ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
