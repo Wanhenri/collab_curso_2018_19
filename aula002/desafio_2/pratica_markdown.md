@@ -7,6 +7,21 @@ RELATÓRIO TÉCNICO DE ATIVIDADES
 
 ### 1. HISTÓRICO
 
+<p>ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<br />
+
+>ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 ### 2. RESUMO DO PROJETO
 
@@ -17,12 +32,14 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <br />
-<p>ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+
+>ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 <br />
 <p>ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -178,3 +195,31 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
+
+### 7. Bibliografia
+
+<p>**obs.:** *não pesquisei a forma correta de formatação de bibliografia</p><br />
+
+*ANTUNES, J. M. **Fórum Permanente da Mata Ciliar**. Lajeado-RS: Ecoagência
+de notícias, 2003. [on line].
+http:// www.agirazul.com.br/fsm4/fsm/00000181.htm.* 
+
+*SILVA, L. et al. **Como a Poluição Afeta nossa Saúde.** 1 ed. Curitiba: Editora Sol Nascente, 2002.*
+
+*AS VÁRIAS FACES DA SAÚDE, São Paulo: Editora Academia, 1994. p.134*
+
+*TCC NÃO É MAIS OBRIGATÓRIO SEGUNDO PORTARIA DO MEC. UOL. Disponível em: <www.portalglobo.blog.br/2016/07/tcc-nao-e-mais-obrigatorio-segundo.html>. Acesso em: 10 nov. 2016.*
+
+*RODRIGUES, M. V. **Qualidade de vida no trabalho.** 1989. 180 f. Dissertação (Mestrado em Administração)- Faculdade de Ciências Econômicas, Universidade Federal de Minas Gerais, Belo Horizonte, 1989.*
+
+DIAS, N. W. D. et al. **Sensoriamento remoto: aplicação para a conservação,
+e desenvolvimento sustentável da Amazônia.** CD-ROM Educacional
+INPE/OBT. São José dos Campos: Instituto Nacional de Pesquisas
+Espaciais, 2003. 
+
+*INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). **Censo
+Demográfico do Brasi.** Rio de Janeiro: IBGE, 2000.* 
+
+MACHADO, C. B. **Utilização de Técnicas de Geoprocessamento no Estudo
+da Vulnerabilidade a Ocupação Urbana: Caso do Morro Chechela, Santa
+Maria – RS.** Dissertação de Mestrado. Porto Alegre: UFRGS, 2002.
