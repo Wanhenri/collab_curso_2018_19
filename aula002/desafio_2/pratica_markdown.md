@@ -55,16 +55,16 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 **Figura desenvolvida utilizando dados do Sistema de Modelagem Global, versão 2.0.0**
 
 ![Figura desenvolvida utilizando dados do Sistema de Modelagem Global, versão 2.0.0](https://github.com/Wanhenri/JupNcl_serie_temporal/blob/master/img/teste_SMG_v200.png)
-***
+
 Fonte: *teste teste teste*.
 
 ***
 **Figura desenvolvida utilizando dados do Sistema de Modelagem Global, versão 2.1.0**
 
 ![Figura desenvolvida utilizando dados do Sistema de Modelagem Global, versão 2.1.0](https://github.com/Wanhenri/JupNcl_serie_temporal/blob/master/img/teste_SMG_v210.png)
-***
-Fonte: *teste teste teste 222*.
 
+Fonte: *teste teste teste 222*.
+***
 
 
 
