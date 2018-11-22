@@ -33,6 +33,35 @@ Exemplo 4 | R$ 8              | R$ 00 | R$ 00 |
 
 ### 3. OBJETIVO
 
+<p>ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+<p>ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+***
+**Figura da América so Sul**
+
+![Figura desenvolvida em NCL](https://github.com/Wanhenri/map/blob/master/img/maponly.000003.png)
+
+Fonte: *qwersaddf*.
+
+
+***
+**Figura da América so Sul com as regiões de analise**
+
+![Figura desenvolvida em NCL](https://github.com/Wanhenri/map/blob/master/img/maponly.000004_antt.png)
+
+Fonte: *qwersaddf*.
+
 ### Tarefas
 - [**ok**] Comprar arroz
 - [**Nok**] Comprar feijão
@@ -57,6 +86,13 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 ![Figura desenvolvida utilizando dados do Sistema de Modelagem Global, versão 2.0.0](https://github.com/Wanhenri/JupNcl_serie_temporal/blob/master/img/teste_SMG_v200.png)
 
 Fonte: *teste teste teste*.
+
+<p>ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 ***
 **Figura desenvolvida utilizando dados do Sistema de Modelagem Global, versão 2.1.0**
