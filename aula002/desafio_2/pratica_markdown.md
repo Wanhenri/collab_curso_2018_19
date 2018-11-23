@@ -174,6 +174,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <p>**Figura e link meramente ilustrativo**</P
 
+**Click no Video**
+
 [![IMAGE ALT TEXT HERE](http://www.inpe.br/noticias/arquivos/imagens/monitoramenteqa.jpg)](https://www.youtube.com/watch?v=5GJzy6WTWvw)
 
 
