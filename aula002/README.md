@@ -52,7 +52,7 @@ git remote add origin <url do github>
  ```   
  <header></header>
  ```
- A tag <header> é pra definir que aquilo é o cabeçalho. 
+ A tag **header** é pra definir que aquilo é o cabeçalho. 
  ```
  <meta>
  ```
