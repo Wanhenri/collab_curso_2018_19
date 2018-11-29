@@ -1,6 +1,19 @@
 # Tema
 ## Html5
+
+ob.:
 ```
+Projeto *encontra-se no **Zeplin***
+
+ **Download** da *art*
+
+ github/collabcodetech
+
+ - repo
+    + XDs
+```
+**Passo-a-Passo pra criar no nosso remoto:**
+
 mkdir loja-fone
 ```
 ```
