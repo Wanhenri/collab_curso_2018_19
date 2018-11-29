@@ -18,7 +18,7 @@ loja-fone
 git remote add origin <url do github>
 ```
 
- **Criar** README.md8 
+ **Criar** README.md 
 
 
 ##### Html5 é uma linguagem de marcação que tem as seguintes responsabilidades:
