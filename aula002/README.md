@@ -14,6 +14,7 @@ Projeto *encontra-se no **Zeplin***
 ```
 **Passo-a-Passo pra criar no nosso remoto:**
 
+```
 mkdir loja-fone
 ```
 ```
