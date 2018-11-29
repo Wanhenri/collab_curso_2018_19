@@ -24,6 +24,7 @@ git remote add origin <url do github>
 - Conteúdo
 - Semântico
     + utilizar as tag de formas corretas
+- estrutura
  
  ```
  <a></a>
@@ -38,6 +39,24 @@ git remote add origin <url do github>
  Usavamos quando definimos titulos.
  
  > obs.: no browser usa-se até 3. Com excessão se for um livro.
+ 
+ ```
+ <body></body>
+ ```
+ A tag body é utilizada pra envolver o texto no qual é apresentado para o usuário.
+ ```
+ <head></head>
+ ```
+ A tag <head> é utilizada para configuração da página.
+    
+ ```   
+ <header></header>
+ ```
+ 
+ ```
+ <meta>
+ ```
+ a tag <meta> não precisa de fechamento *ex.:<meta />* , é opcional.
  
  Projeto *encontra-se no **Zeplin***
 
