@@ -25,6 +25,20 @@ git remote add origin <url do github>
 - Semântico
     + utilizar as tag de formas corretas
  
+ ```
+ <a></a>
+ ```
+ Usamos para definir a navegação do usuário (criação de link(a - anchor)). Quando se tem um texto e deseja-se que o usuário clique nele pra ir para outro lugar, outra página, pode-se usar essa tag junto com o atributo **href** .
+ Exemplo:
+ > <a href:"http://collabcode.training">Collab Code</>
+    
+ ```
+ <h1>  -  heading 1 - 6
+ ```
+ Usavamos quando definimos titulos.
+ 
+ > obs.: no browser usa-se até 3. Com excessão se for um livro.
+ 
  Projeto *encontra-se no **Zeplin***
 
  **Download** da *art*
