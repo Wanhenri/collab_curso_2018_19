@@ -88,3 +88,9 @@ git remote add origin <url do github>
  ```
  - repo
     + XDs
+
+## CSS
+
+É uma linguagem de estilo e possuí as seguintes responsabilidades:
+
+- Visual
