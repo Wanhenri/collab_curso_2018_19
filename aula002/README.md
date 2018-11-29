@@ -52,11 +52,17 @@ git remote add origin <url do github>
  ```   
  <header></header>
  ```
- 
+ A tag <header> é pra definir que aquilo é o cabeçalho. 
  ```
  <meta>
  ```
  a tag <meta> não precisa de fechamento *ex.:<meta />* , é opcional.
+ 
+ ```
+ <nav>
+ ```
+ A tag <nav> diz para o html5 que a tag <a> são menu de navegação.
+
  
  Projeto *encontra-se no **Zeplin***
 
