@@ -19,7 +19,7 @@ git remote add origin <url do github>
  **Criar** README.md8 
 
 
-##### Html é uma linguagem de marcação que tem as seguintes responsabilidades:
+##### Html5 é uma linguagem de marcação que tem as seguintes responsabilidades:
 
 - Conteúdo
 - Semântico
