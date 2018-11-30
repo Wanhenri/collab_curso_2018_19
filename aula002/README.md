@@ -94,3 +94,7 @@ git remote add origin <url do github>
 É uma linguagem de estilo e possuí as seguintes responsabilidades:
 
 - Visual;
+
+**Reset CSS** é pra retirar o comportamento que o browser tem relação a customização automatica e deixar
+do jeito que queremos que fique a estilização.
+Utilizaremos o Reset.css do [Eric Meyer](https://meyerweb.com/eric/tools/css/reset/) .
