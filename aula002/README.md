@@ -93,4 +93,4 @@ git remote add origin <url do github>
 
 É uma linguagem de estilo e possuí as seguintes responsabilidades:
 
-- Visual
+- Visual;
