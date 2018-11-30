@@ -98,3 +98,4 @@ git remote add origin <url do github>
 **Reset CSS** é pra retirar o comportamento que o browser tem relação a customização automatica e deixar
 do jeito que queremos que fique a estilização.
 Utilizaremos o Reset.css do [Eric Meyer](https://meyerweb.com/eric/tools/css/reset/) .
+O arquivo do Resete.css deve ser o primeiro link a a ser chamado no **head**
