@@ -15,3 +15,11 @@ e exemplo de chamada da fonte **roboto** :
 ```
 font-family: Arial,"Roboto Condensed", Helvetica, sans-serif;
 ```
+
+## Float
+
+```
+float: letf; or right; or center
+```
+
+Faz com que a tag selecionada 'flutue' de acordo com a especificação repassada.
