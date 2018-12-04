@@ -76,3 +76,11 @@ padding: top right/left bottom
 padding: 55px 60px 95px;
 ```
 
+um outro caso, quando se passa apenas um parametro:
+```
+padding: top/right/bottom/left
+```
+todos os lados iguais
+```
+padding:60
+```
