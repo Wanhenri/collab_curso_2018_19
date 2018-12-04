@@ -1,0 +1,44 @@
+header {
+    background-color: #e24647;
+    color: #fff;
+    overflow: hidden;
+    
+    margin: 0 115px; 
+
+    padding: 55px 60px 95px;
+
+}
+
+body {
+    height: 1200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Arial,"Roboto Condensed", Helvetica, sans-serif;
+    float: left;
+    opacity: 0.8;
+    
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+nav {
+    font-size: 21px;    
+    font-family: "Segoe UI","Roboto Condensed",Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
+    float: right;
+    padding:10px;
+    margin-right: 10px; 
+    word-spacing: 60px;
+    text-align: center;   
+}
+
+
+
