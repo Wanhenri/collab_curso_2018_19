@@ -84,3 +84,4 @@ todos os lados iguais
 ```
 padding:60
 ```
+Para margin funciona a mesma regra.
