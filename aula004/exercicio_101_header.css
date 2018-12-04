@@ -36,3 +36,7 @@ nav {
     font-family: "Segoe UI","Roboto Condensed",Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
     float: right;  
 }
+
+#last {
+    margin-right: 0;
+}
