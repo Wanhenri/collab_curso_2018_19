@@ -1,0 +1,22 @@
+button {
+    position: relative;
+    background-color: #252c41;
+    display: inline-block;
+    box-sizing: border-box;
+
+    width: 200px;
+    height: 60px;
+    /* padding: top right bottom left */
+    /* margin: 958px 280px 100px 1121px; */
+    margin: 0 580px;
+    
+    cursor: pointer;
+
+    font-size: 20px;
+    font-family: Arial, "Roboto", sans-serif;
+    color: #ffffff;
+    
+    text-decoration: none;
+    
+    border: 2px solid #ffffff;
+}
