@@ -29,3 +29,21 @@ A **class** é presa a tag.
 - position: absolute
 Cria um novo contexto
 
+Pode-se repetir para outras tag no mesmo código/página.
+A **class** é presa a tag.
+
+# O mundo do display
+
+- inline
+Deixa elementos na mesma linha;
+não define width height;
+
+- block
+Ele não deixa na mesma linha;
+É possível definir width height;
+
+- inline-block
+Deixa elementos na mesma linha;
+É possível definir width height;
+
+
