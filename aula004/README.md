@@ -26,4 +26,6 @@ Pode-se repetir para outras tag.
 A **class** é presa a tag.
 
 
+- position: absolute
+Cria um novo contexto
 
