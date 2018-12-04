@@ -34,9 +34,5 @@ a {
 nav {
     font-size: 21px;    
     font-family: "Segoe UI","Roboto Condensed",Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
-    float: right;
-    padding:10px;
-    margin-right: 10px; 
-    word-spacing: 60px;
-    text-align: center;   
+    float: right;  
 }
