@@ -58,3 +58,21 @@ Ex:
  ```
     padding: 55px 60px 95px 60px;
 ```
+igual
+
+```
+padding: top/bottom right/left
+```
+```
+padding: 55px 60px;
+```
+
+igual 
+
+```
+padding: top right/left bottom
+```
+```
+padding: 55px 60px 95px;
+```
+
