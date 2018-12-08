@@ -62,3 +62,16 @@ top botton => eixo x
 left right => eixo y
 
 Com o top / botton e left / right consegue-se mover o objeto necessário em relação a página.
+
+<p> Com o comando tranform:translateX vamos movimentar a quantidade do elemente que queremos.</p>
+<p> Por exemplo: se queremos mover 50% do objeto para a esquerda, colocaremos -50%.
+
+```
+tranform: translateX ()
+```
+<p> Com o comando tranform:translateY vamos movimentar a quantidade do elemente que queremos.</p>
+<p> Por exemplo: se queremos mover 50% do objeto para a cima ou baixo, colocaremos -50%.
+
+```
+tranform: translateY ()
+```
