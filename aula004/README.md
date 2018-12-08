@@ -35,15 +35,16 @@ A **class** é presa a tag.
 # O mundo do display
 
 - inline
-Deixa elementos na mesma linha;
-não define width height;
+
+<p>Deixa elementos na mesma linha;</p>
+<p>não define width height;</p>
 
 - block
-Ele não deixa na mesma linha;
-É possível definir width height;
+<p>Ele não deixa na mesma linha;</p>
+<p>É possível definir width height;</p>
 
 - inline-block
-Deixa elementos na mesma linha;
-É possível definir width height;
+<p>Deixa elementos na mesma linha;</p>
+<p>É possível definir width height;</p>
 
 
