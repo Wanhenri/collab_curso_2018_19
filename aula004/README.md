@@ -47,4 +47,18 @@ A **class** é presa a tag.
 <p>Deixa elementos na mesma linha;</p>
 <p>É possível definir width height;</p>
 
+## aula -> position absolute e porcentagem
+<p>aula importante para posicionamento dos elementos. Retornar aqui sempre que necessário</p>
+---
+## position: absolute
 
+<p>cria um novo contexto</p>
+<p>define a largura e altura - é o conteúdo</p>
+
+```
+position: absolute;
+```
+top botton => eixo x
+left right => eixo y
+
+Com o top / botton e left / right consegue-se mover o objeto necessário em relação a página.
