@@ -15,7 +15,14 @@
 
 <p> No script original dado no exemplo, os itens primeiro(laranja), segundo(verde) e terceiro(azul) estão um em baixo do outro.</p>
 Com a função:  
+
 ```
 display:inline;
-````
+```
+
 Foi possível deixa-las uma do lado da outra.
+
+**Definição simples**
+> O valor inline permite que os elementos fiquem um do lado do outro -- essa é a parte simples de perceber.
+
+<p> Porém não é possível configurar *width* e *height*
