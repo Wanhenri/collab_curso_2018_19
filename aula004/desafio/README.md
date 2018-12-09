@@ -29,7 +29,6 @@ Porém não é possível configurar *width* e *height*
 > Os elementos com inline não aceitam largura (width), nem altura (height), o tamanho do elemento é definido pelo conteúdo que ele contém.
 
 Para explicar um pouco sobre o respiro colocado, criamos os seguintes tag h1  
-  
 ```
   <h1 class="title">
         Primeiro
@@ -49,6 +48,7 @@ Para explicar um pouco sobre o respiro colocado, criamos os seguintes tag h1
 ```
 <p>Agora sem o espaço em branco, mas deixando o código nada elegante.</p>
 <p>Outra forma para retirar os espaços em branco:</p>
+
 ```
 <li class="example-item example-item_first">Primeiro</li><!--
  --><li class="example-item example-item_second">Segundo</li><!--
