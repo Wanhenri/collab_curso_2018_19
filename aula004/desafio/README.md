@@ -65,3 +65,46 @@ Para explicar um pouco sobre o respiro colocado, criamos os seguintes tag h1
 <p>O código final ficando assim:</p>
 
 https://repl.it/@wanhenri/collabcode-display-inline
+
+
+### Display block
+
+obs.: copiando o código utilizado no 'display inline'
+
+<p> definir a largura (width) e altura (height)</p>
+```
+width:33.333%; 
+height: 150px;
+```
+Porém nenhuma mudança ocorreu.
+Agora modificaremos o 
+```
+display:inline;
+```
+para
+```
+display: block;
+```
+O resultado será os blocos alinhados e com o tamanho dado para ele.
+> Teoricamente as <li> deveriam ficar uma do lado da outra. Isso não acontece porque todo elemento definido como block ocupa a linha inteira, ou seja, não deixa outro elemento ocupar a mesma linha que ele. Por esse motivo os elementos HTML (<li>) ficaram um de baixo do outro.
+  
+Agora colocarei a margem para cada bloco.
+
+No bloco 2, colocaremos a
+```
+margin-left: 40px
+```
+lembre-se que a <li> tem 33.333% de largura.
+
+É isso. Só fazermos a conta, 100% - 33.333%, teremos como resultado 66.667%. Para deixarmos o layout mais próximo do desafio, basta que a segunda <li> tenha no margin-left o valor de 66.667%.
+
+Porém, toda vez que mudar o width, teremos que modificar o margin-left. Para que isso não seja necessário, vamos colocar no li o margin-left:auto; , assim ela se ajustará de acordo com o necessário.
+>  Utilizando o margin-left: auto; não precisamos mais ficar fazendo a conta para definir o valor de margin-left dessa forma a manutenção do código fica muito mais feliz.
+
+Agora vamos centralizar o terceiro bloco.
+Para que isso ocorra sem que tenhamos que mudar na largura original, podemos usar as mesmas caracteristicas utilizadas no segundo bloco.
+
+```
+margin-right: auto; 
+margin-left: auto; 
+```
