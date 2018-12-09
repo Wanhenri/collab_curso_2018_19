@@ -39,3 +39,29 @@ Para explicar um pouco sobre o respiro colocado, criamos os seguintes **<h1>**
   ```
   
   No código as palavras estão separadas por um [enter], porém quando rodamos o código elas aparecem separadas por um [space] Isso acontece pelo fato de no display inline colocar um comportamento na palavra, enquanto que no 'sem inline' possuí um comportamento próprio em relação a formatação.
+
+Para retirar esse espaço em branco gerado pelo inline, basta colocarmos nosso código da seguinte forma:
+
+```
+ <ul class="example">
+        <li class="example-item example-item_first">Primeiro</li><li class="example-item example-item_second">Segundo</li><li class="example-item example-item_third">Terceiro</li>
+    </ul>
+```
+Agora sem o espaço em branco, mas deixando o código nada elegante.
+Outra forma para retirar os espaços em branco:
+```
+<li class="example-item example-item_first">Primeiro</li><!--
+ --><li class="example-item example-item_second">Segundo</li><!--
+ --><li class="example-item example-item_third">Terceiro</li>
+```
+Mas o código não fica nada elegante, como o anterior.
+
+<p> No momendo a nossa <li> encontra-se no canto superior direito. Para deixarmos no centro podemos usar a tag:</p>
+
+```
+  text-align: center;
+```
+
+O código final ficando assim:
+
+https://repl.it/@wanhenri/collabcode-display-inline
