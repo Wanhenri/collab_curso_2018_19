@@ -25,4 +25,4 @@ Foi possível deixa-las uma do lado da outra.
 **Definição simples**
 > O valor inline permite que os elementos fiquem um do lado do outro -- essa é a parte simples de perceber.
 
-<p> Porém não é possível configurar *width* e *height*
+**Porém não é possível configurar *width* e *height* **
