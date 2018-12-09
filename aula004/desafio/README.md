@@ -72,16 +72,19 @@ https://repl.it/@wanhenri/collabcode-display-inline
 obs.: copiando o código utilizado no 'display inline'
 
 <p> definir a largura (width) e altura (height)</p>
+
 ```
 width:33.333%; 
 height: 150px;
 ```
 Porém nenhuma mudança ocorreu.
 Agora modificaremos o 
+
 ```
 display:inline;
 ```
 para
+
 ```
 display: block;
 ```
