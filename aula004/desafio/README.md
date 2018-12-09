@@ -111,3 +111,56 @@ Para que isso ocorra sem que tenhamos que mudar na largura original, podemos usa
 margin-right: auto; 
 margin-left: auto; 
 ```
+
+### Display inline-block
+
+obs.: copiando o código utilizado no 'display inline' e também o mesmo que no 'display block'
+
+Primeiramente iremos alinhar utilizando o display inline. Mas ainda não é o que queremos. Ficaram um do lado do outro, mas sem a largura (width: 25%) e altura (height: 150px).
+Para que ele pegue as configurações desejadas, precisaremos utilizar o display:inline-block .
+
+>  display: inline-block. O próprio nome (inline-block) já mostra para nós que é a junção dos comportamentos dos valores inline + block. Abaixo explicarei detalhadamente os comportamento dessa propriedade.
+
+> Com display: inline-block nós conseguimos definir uma largura (width) e altura (height) da mesma forma que conseguimos com o display: block, esse é o único comportamento que o inline-block herda do block.
+
+Foi acrescentado o trecho no nosso index.html
+
+```
+<p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit.   Dolorem in laboriosam facilis a ad quisquam laudantium odit dignissimos, totam perferendis illum, nobis doloribus dolore reiciendis optio expedita, obcaecati repellat sint?
+    </p>
+```
+
+> Com esse parágrafo adicionado, fica mais fácil entender o que estou querendo dizer com: "as tags que são definidas com display: inline-block ganham o comportamento de uma palavra".
+
+Acrescentando:
+
+```
+p { 
+    text-align: right; /* Criamos esse seletor */
+}
+```
+> A propriedade text-align realmente consegue mudar o comportamento das palavras que estão dentro de um parágrafo.
+
+**Voltando um pouco**
+
+Utilizando o
+
+```
+text-align: right;
+```
+para o bloco do **li**, iremos mover para a direita o bloco todo.
+
+Com
+
+```
+text-align: center;
+```
+Iremos colocar  o bloco **li** centralizado.
+
+Com
+
+```
+text-align: justify;
+```
+
