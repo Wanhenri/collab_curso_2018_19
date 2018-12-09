@@ -28,8 +28,7 @@ Foi possível deixa-las uma do lado da outra.
 Porém não é possível configurar *width* e *height*
 > Os elementos com inline não aceitam largura (width), nem altura (height), o tamanho do elemento é definido pelo conteúdo que ele contém.
 
-Para explicar um pouco sobre o respiro colocado, criamos os seguintes <h1>
-  
+Para explicar um pouco sobre o respiro colocado, criamos os seguintes tag h1  
   ```
   <h1 class="title">
         Primeiro
