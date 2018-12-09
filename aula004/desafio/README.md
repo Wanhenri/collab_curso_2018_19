@@ -9,3 +9,13 @@
 - display inline-block
 - float 
 - position
+
+
+### Display inline
+
+<p> No script original dado no exemplo, os itens primeiro(laranja), segundo(verde) e terceiro(azul) estão um em baixo do outro.</p>
+Com a função:  
+```
+display:inline;
+````
+Foi possível deixa-las uma do lado da outra.
