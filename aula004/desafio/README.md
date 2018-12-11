@@ -112,6 +112,10 @@ margin-right: auto;
 margin-left: auto; 
 ```
 
+<p>O código final ficando assim:</p>
+
+https://repl.it/@wanhenri/collabcode-display-block
+
 ### Display inline-block
 
 obs.: copiando o código utilizado no 'display inline' e também o mesmo que no 'display block'
@@ -163,4 +167,8 @@ Com
 ```
 text-align: justify;
 ```
+
+<p>O código final ficando assim:</p>
+
+https://repl.it/@wanhenri/collabcode-display-inline-block
 
