@@ -167,6 +167,41 @@ Com
 ```
 text-align: justify;
 ```
+> O text-align: justify parou de funcionar novamente. Lembra que o comportamento do justify, é justificar todas as linhas menos a última? :-)
+
+> Como temos apenas uma linha, ela é a primeira e também a última, por isso que ela não está justificada. Para resolver esse problema precisamos adicionar uma última linha e fazer com que ela não apareça para o usuário.
+
+Vamos acrescentar um seletor de pseudo-element **:after**
+
+```
+.example:after { /* Adicionamos esse seletor */
+    content: 'Ω…¬˚∆ø¥åß';
+    color: red;
+}
+```
+
+> O :after adiciona um elemento dentro da tag que informamos no seletor e esse elemento sempre será o último dentro desta tag
+
+Precisamos agora adiciona nesse pseudo-element o **display: inline-block** e também a **width: 100%** e **height: 0** .
+
+```
+.example:after {
+.
+.
+    display: inline-block; /* Adicionando essa linha, */
+    width: 100%; /* essa também */
+    height: 0; /* e essa foi a última */
+```
+Aí sim estamos com a primeira linha justificada!
+
+Vamos deixar o **content: ''** dessa forma para remover os simbolos; e também retirar o **color: red;**
+
+```
+  .example:after {
+      content: '';
+      .
+      .
+```
 
 <p>O código final ficando assim:</p>
 
