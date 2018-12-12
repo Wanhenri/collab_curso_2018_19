@@ -230,3 +230,8 @@ e no **float.css**, criaremos uma cor de fundo para o *article*
 }
 ```
 Só o parágrafo ganhou a cor de fundo.
+
+>>>>>Ainda em andamento<<<<
+
+<p>O código final ficando assim:</p>
+https://repl.it/@wanhenri/collabcode-float-left-e-float-right
