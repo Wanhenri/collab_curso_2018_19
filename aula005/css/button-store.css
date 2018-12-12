@@ -1,5 +1,6 @@
 .button-store {
     display: inline-block;
+    box-sizing: border-box;
     background-color: #252c41;
     font-size: 20px;
     font-family: Arial, "Roboto", sans-serif;
@@ -10,6 +11,7 @@
     text-align: center;
     line-height: 60px;
     text-decoration: none;
+    
     
 }
 
