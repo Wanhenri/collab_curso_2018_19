@@ -16,18 +16,9 @@
 }
 
 .button-store-second {
-    display: inline-block;
-    box-sizing: border-box;
-    vertical-align: top;
-    color: #ffffff;
-    font-family: Arial, "Roboto", sans-serif;
-    font-size: 20px;
-    text-align: center;
-    background-color: trasparent;
+    background-color: transparent;
     border: 2px solid #ffffff;
     width: 218px;
-    height: 60px;
-    text-decoration: none;
     line-height: 56px;
 
 }
