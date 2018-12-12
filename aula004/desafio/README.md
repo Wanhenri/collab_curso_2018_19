@@ -207,3 +207,26 @@ Vamos deixar o **content: ''** dessa forma para remover os simbolos; e também r
 
 https://repl.it/@wanhenri/collabcode-display-inline-block
 
+### float: left e float: right 
+
+Aplicando a **float: left;** no *.elementExample_first* , a primeira <div> foi parar em cima da segunda.
+Aplicando a **float: left;** na *.elementExample_second* , elas ficaram uma do lado da outra alinhadas à esquerda com o parágrafo à direita.
+  
+Modificando o *.elementExample_last* e acrestando a linha **float: right;**
+
+> Por que o texto dentro do parágrafo está se encaixando ao lado dos elementos que estão flutuando?
+Apesar do display do <p> ser block, o display de qualquer texto é inline, portanto o texto não fica embaixo do elemento que está flutuando e sim ao lado.
+
+Após vermos o basico sobre float, vamos criar um <article> que envolverá as duas <div>s e o <p>.
+  
+```
+<article class="wrap-elementExample">
+```
+e no **float.css**, criaremos uma cor de fundo para o *article*
+
+```
+.wrap-elementExample {
+  background-color: #27ae60;
+}
+```
+Só o parágrafo ganhou a cor de fundo.
