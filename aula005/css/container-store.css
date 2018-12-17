@@ -7,3 +7,13 @@
     width: 80%;
     padding: 55px 60px 95px;
 }
+
+.imagem {    
+    
+    width: 547px;
+    height: 547px;
+    position: absolute;
+    left: 10%;
+    top:10%;
+
+}
