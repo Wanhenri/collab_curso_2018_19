@@ -1,0 +1,59 @@
+.dl-store {
+    color: #ffffff;
+    font-family: Arial, "Roboto", sans-serif;
+    float: right;
+    overflow: hidden;    
+    width: 50%;
+    text-align: left;    
+}
+
+.dl-store-title {
+       
+    line-height: 30px;  
+   
+    font-size: 25px; 
+    margin-bottom: 50px;
+    margin-top: 28px;
+}
+
+.-description-item {
+    font-size: 25px;
+    line-height: 24px; 
+      
+}
+
+.description-item.-first {
+    margin-bottom: 28px;
+}
+.description-item.-second {
+    margin-top: 28px;
+    margin-bottom: 26px;
+    text-transform: uppercase;
+}
+.description-item.-third {
+    margin-top: 28px;
+    margin-bottom: 26px;
+    text-transform: uppercase;
+}
+.description-item.-fourth {
+    margin-bottom: 30px;
+}
+
+
+.description-item.-link > a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 98px;
+    
+     
+}
+
+.-descricao {
+    font-size: 18px;
+    margin-bottom: 40px;
+    margin-top: 73px;
+    
+    line-height: 1.67;
+    
+}
