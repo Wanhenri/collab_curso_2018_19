@@ -57,3 +57,12 @@
     line-height: 1.67;
     
 }
+
+.description-button-car, .description-button-buy {
+    display: inline-block;
+    margin-right: 40px;
+  }
+
+.description-button-car {
+    margin-right: 38px;
+}
