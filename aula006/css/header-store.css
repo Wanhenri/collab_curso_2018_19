@@ -25,7 +25,7 @@
     float: right;    
 }
 
-.header-store .-last {
+.header-store .action.-last {
     margin-right: 0;
 }
 
