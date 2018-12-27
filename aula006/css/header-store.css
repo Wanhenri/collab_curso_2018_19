@@ -1,7 +1,8 @@
 .header-store {
-    background-color: #e24647;
+    
     color: #fff;
-    overflow: hidden;   
+    overflow: hidden; 
+    margin-bottom: 138px;
 }
 
 
@@ -9,7 +10,7 @@
     font-size: 40px;
     font-family: Arial,"Roboto Condensed", Helvetica, sans-serif;
     float: left;
-    opacity: 0.8;
+    text-transform: uppercase;
     
 }
 
