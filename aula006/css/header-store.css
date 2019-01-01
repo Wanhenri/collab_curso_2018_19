@@ -1,8 +1,9 @@
 .header-store {
     
     color: #fff;
-    overflow: hidden; 
+    overflow: hidden;   
     margin-bottom: 138px;
+    padding-left: 60px;
 }
 
 
@@ -20,7 +21,7 @@
     margin-right: 60px;
 }
 
-.header-store > .navigation {
+.header-store .navigation {
     font-size: 21px;    
     font-family: "Segoe UI","Roboto Condensed",Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
     float: right;    
