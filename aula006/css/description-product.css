@@ -1,8 +1,8 @@
 .description-product {
     color: #ffffff;
     font-family: "Roboto", sans-serif; 
-    display: inline-block;  
-    width: 554px;
+   
+   
 }
 
 .description-product > .title {     
@@ -35,9 +35,6 @@
     margin-bottom: 30px;
 }
 
-.description-product > .text.-more {
-    margin-bottom: 98px;
-}
 
 .description-product .action {
      color: inherit;
