@@ -5,7 +5,8 @@
     top:50%;
     transform: translateX(-50%) translateY(-50%);
     width: 90%;
-    padding: 55px 60px 95px 0;
+    /* padding: 55px 60px 95px 0;*/
+    padding: 55px 60px 165px 0;
 }
 
 
