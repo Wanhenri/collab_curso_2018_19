@@ -21,6 +21,17 @@
     margin-right: 60px;
 }
 
+.header-store .search {
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #fff;
+    color: #fff;   /* Não funciona */
+    font-family: Arial, "Roboto", sans-serif;
+    font-size: 20px;
+    margin-right: 65px;
+    padding: 8px;
+}
+
 .header-store .navigation {
     font-size: 21px;    
     font-family: "Segoe UI","Roboto Condensed",Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
