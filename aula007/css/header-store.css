@@ -21,11 +21,11 @@
     margin-right: 60px;
 }
 
-.header-store .search {
+.header-store [type="search"] {
     background-color: transparent;
     border: none;
     border-bottom: 1px solid #fff;
-    color: #fff;   /* Não funciona */
+    color: #fff;  
     font-family: Arial, "Roboto", sans-serif;
     font-size: 20px;
     margin-right: 65px;
