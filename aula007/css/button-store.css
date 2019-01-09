@@ -20,6 +20,10 @@
     color: #252a34;
 }
 
+.button-store:active {
+    transform: scale(0.9);
+}
+
 .button-store.-second {
     background-color: transparent;
     border: 2px solid #ffffff;
