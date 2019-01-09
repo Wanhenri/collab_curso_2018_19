@@ -14,7 +14,8 @@
     transition: all 200ms linear;
 }
 
-.button-store:hover {
+.button-store:hover
+.button-store:focus {
     background-color: #fff;
     color: #252a34;
 }
@@ -27,7 +28,8 @@
     margin-right: 58px;
 }
 
-.button-store.-second:hover {
+.button-store.-second:hover
+.button-store.-second:focus {
     background-color: #fff;
     color: #e24647;
   }
