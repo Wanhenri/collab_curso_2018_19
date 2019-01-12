@@ -22,6 +22,10 @@
     margin-right: 60px;
 }
 
+.header-store .action:hover {
+    border-bottom: 1.5px solid #fff;
+ }
+
 .header-store [type="search"] {
     background-color: transparent;
     border: none;
