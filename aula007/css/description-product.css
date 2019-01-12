@@ -23,10 +23,19 @@
     cursor: pointer
 }
 
+.description-product  > .item.-heart:hover {
+    transform: translateX(-100%) scaleX(1.2) scaleY(1.2);
+}
+
 .description-product > .item.-star {
     margin-bottom: 10px;
     cursor: pointer;
 }
+
+.description-product > .item.-star img:hover {
+    transform: translate(10%) scaleX(1.2) scaleY(1.2);
+    margin-right: 3px;
+  }
 
 .description-product > .item.-star + .item{
     margin-left: 7px;
