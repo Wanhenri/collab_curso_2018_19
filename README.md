@@ -7,6 +7,13 @@
 ```
 git clone <url>
 ```
+```
+
+git remote add origin <url>
+```
+
+or
+> verificar a diferença entre colocar *origin* e *master*
 
 ```
 git remote add master <url>
