@@ -21,4 +21,8 @@ git push ; git add <file> ou '.'; git status; git commit -m ""; git push -u orig
 ```
 
 <p>Precisamos criar uma chave pública para o nosso SSH.</p>
-<p> Vamos em 'usuário', 'settings', clique em 'SSH and GPG Keys'. Na área 'SSH and GPG Keys', vamos clicar em 'New SSH key'.
+<p> Vamos em 'usuário', 'settings', clique em 'SSH and GPG Keys'. Na área 'SSH and GPG Keys', vamos clicar em 'New SSH key', porém antes disso é preciso gerar a chave.</p>
+<p>Clicaremos em 'generating SSH keys', em seguida clicaremos no link 'Generating a new SSH key and adding it to the ssh-agent', mostrará um guia de como gerar.</p>
+<p>Após seguir o sugerido, voltaremos para o 'New SSh Key'. Acrescentando pontos em 'Title' e 'Key'.</p>
+
+> obs.: A chave é criada por máquina.
