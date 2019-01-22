@@ -36,6 +36,8 @@ git pull origin master
 Links uteis
 ---
 
+https://www.youtube.com/watch?v=_f6RYUjDlMk
+
 /*
  * O front-end mesmo sem um framework está maneiro, parabéns!
  */
