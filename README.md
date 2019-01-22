@@ -44,6 +44,7 @@ https://www.youtube.com/watch?v=_f6RYUjDlMk
 
 Estes dois vídeos vc poderá adaptar ao seu projeto:
 https://www.youtube.com/watch?v=_f6RYUjDlMk  → este vc pode baixar o código
+<br>
 https://www.youtube.com/watch?v=AN0iHLNhF58 → este é curto
 
 Tenho algumas dúvidas (surgiram após acessar: { https://codepen.io/VduarteJs/pen/aXbOGB }):
