@@ -32,6 +32,12 @@ git push -u origin master
 git pull origin master
  ```
  
+
+---
+#### Excelente link para consultar o conteúdo do curso:
+
+[flaviaguterres](https://github.com/flaviaguterres/do-front-ao-end/tree/master/loja-fone)
+--- 
 ---
 Links uteis
 ---
