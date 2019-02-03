@@ -57,3 +57,34 @@
     margin-right: 0;
 }
 
+@media (max-width: 1235px) {
+    .header-store > .title {
+        float: none;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .header-store > .navigation {
+        float: none;
+        text-align: center;
+        
+    }
+}
+
+@media (max-width: 955px) {
+    .header-store [ type="search"] {
+display: none;
+    }
+}
+
+@media (max-width: 530px) {
+    .header-store .action {
+        margin-right: 30px;
+    }
+}
+
+@media (max-width: 465px){
+    .header-store .action {
+        margin-right: 15px;
+    }
+}
