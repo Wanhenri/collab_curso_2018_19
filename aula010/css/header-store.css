@@ -88,3 +88,18 @@ display: none;
         margin-right: 15px;
     }
 }
+
+@media (max-width: 375px){
+    .header-store {
+        padding-left: 16px;
+    }
+    .header-store .action {
+        margin-right: 8px;
+    }
+}
+
+@media (max-width: 335px) {
+    .header-store > .navigation {
+        display: none;
+    }
+}
