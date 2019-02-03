@@ -13,5 +13,6 @@
 <br>
 [[010] - Desafio Básico + Intermediário + Avançado P4](https://github.com/Wanhenri/collab_curso_2018_19/commit/a0f755959f93e0e47799524080f2fd562009d38c#diff-ac1aa4be3f6f504eac8d5989a12dff3e)
 <br>
+[[010] - Desafio extra - solução inline-block](https://github.com/Wanhenri/collab_curso_2018_19/commit/e5bc34356e22929da8e26bdfd162248912acf2b4#diff-020cb2fb989cc816405f2482588cdc0e)
 [](url)
-[](url)
+
