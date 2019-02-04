@@ -103,3 +103,17 @@ Estes são em espanhol:
 - https://www.youtube.com/watch?v=xh6T7lHKLKg
 
 Todos possuem legenda caso precise. 
+
+---
+---
+Esses dois links explicam sobre HTML semântico:
+
+- https://medium.com/collabcode/meu-html-%C3%A9-sem%C3%A2ntico-e-o-seu-4e97c81c0c49
+
+- https://www.devmedia.com.br/html-semantico-conheca-os-elementos-semanticos-da-html5/38065
+
+- React- https://github.com/MatheusRiios/ProcessoCubos
+
+React-native
+- 1 - https://github.com/MatheusRiios/Aplicativo-Ordem-de-Servi-o
+- 2 - https://github.com/MatheusRiios/Aplicativo-Listagem-de-Produtos
