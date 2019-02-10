@@ -18,8 +18,11 @@
 
 @media (max-width: 1310px) {
    .photo-product {
-      display: block;
-      margin-right: 0;
+       display: block;
+       margin-right: 0;
+       margin-bottom: 30px;
+       /* position: absolute;
+       width: 100%; */
        }
 }
 
