@@ -59,11 +59,7 @@
     .description-product {
         width: 50%;
         min-width: 655px;
-        /* A funcionalidade é similar a 
-        margin-left e margin-right abaixo
-        /* margin: 0 auto 60px; */
-        margin-left: auto;
-        margin-right: auto;
+        margin: 0 auto 60px;
 
 
     }
