@@ -11,8 +11,7 @@
 
 @media (max-width: 1325px) {
    .photo-product {
-       margin-right: 140px;
-       
+       margin-right: 140px;       
    }
 }
 
@@ -20,9 +19,7 @@
    .photo-product {
        display: block;
        margin-right: 0;
-       margin-bottom: 30px;
-       /* position: absolute;
-       width: 100%; */
+       margin-bottom: 30px;       
        }
 }
 
@@ -31,7 +28,7 @@
        height: auto;
    }
 
-   .photo-product > .headset {
+   .photo-product > .photo {
        width: 100%;
    }
 }
