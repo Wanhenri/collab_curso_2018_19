@@ -8,8 +8,11 @@
 
 */
 
-alert('Antes do nossoo comando que pega o coração!');
-
 const $heart = window.document.querySelector('.-heart'); 
 
-console.log($heart);
+
+$heart.addEventListener("click", handleClick);
+
+function handleClick() {
+    console.log('ae');
+}
