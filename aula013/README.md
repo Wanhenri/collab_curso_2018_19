@@ -1,13 +1,11 @@
 
 # Desafios
 
-[[012] - Desafio Básico ]()
+[[013] - Desafio Básico ]()
 
-[[012] - Intermediário]()
+[[013] - Intermediário]()
 
-[[012] - Avançado]()
+[[013] - Avançado]()
 
 
-##Desafio
 
-<p> O desafio é pra pesquisar e comentar sobre Pixel. </p>
