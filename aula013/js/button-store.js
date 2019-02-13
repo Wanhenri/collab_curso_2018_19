@@ -1,9 +1,8 @@
 const $buttonSecond = window.document.querySelector('.-second');
+const $carr = window.document.querySelector('.-last');
 
 $buttonSecond.addEventListener("click", handleClick);
 
-console.log($buttonSecond)
-
 function handleClick() {
-    console.log('Teste');
+    $carr.textContent = "Carrinho(11)"
 }
