@@ -1,4 +1,5 @@
 ### contadores similares
+---
 
 ```javascript
 valorInicial = valorInicial + 1; 
@@ -11,7 +12,8 @@ valorInicial += 1;
 valorInicial++;
 ```
 
-### template string
+### Template String
+---
 
 Aplicação com mesmo resultados:
 
