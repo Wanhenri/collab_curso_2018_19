@@ -7,19 +7,20 @@
 5 - No instante que o usuario clicar, mostraremos um texto 'AE' na tela
 
 */
+const $heart = document.querySelector('.-heart'); 
 
-const $heart = window.document.querySelector('.-heart'); 
+const $stars = document.querySelector(".-star");
+
+$heart.addEventListener("click", handleClickHeart);
 
 
-$heart.addEventListener("click", handleClick);
+$stars.addEventListener("click", handleClickStar);
 
-function handleClick() {
-    // if ($heart.classList.contains('-active')) {
-    //     $heart.classList.remove('-active');
-    // } else {
-    //     $heart.classList.add('-active');
-    // }
-    
-    $heart.classList.toggle('-active');
+function handleClickHeart() {
+    $heart.classList.toggle("-active");
+  }
 
-}
+
+function handleClickStar() {
+    $stars.classList.toggle("-active");
+  }
