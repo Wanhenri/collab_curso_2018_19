@@ -23,6 +23,11 @@
     cursor: pointer
 }
 
+.description-product > .item.-active {
+    background-color: #ffffff;
+}
+
+
 .description-product  > .item.-heart:hover {
     transform: translateX(-100%) scaleX(1.2) scaleY(1.2);
 }
