@@ -17,13 +17,14 @@
 
 .description-product > .item.-heart {
     position: absolute;
+    display: inline-block;
     transform: translateX(-100%);
     left:-47px;
     top:5px;
     cursor: pointer
 }
 
-.description-product .item .icon.-active {
+.description-product .icon.-active {
     display: none;
 }
   
@@ -40,6 +41,18 @@
 .description-product  > .item.-heart:hover {
     transform: translateX(-100%) scaleX(1.2) scaleY(1.2);
 }
+
+.description-product .star {
+    display: inline-block;
+  }
+  
+  .description-product .star.-active > .icon {
+    display: none;
+  }
+  
+  .description-product .star.-active > .-active {
+    display: block;
+  }
 
 .description-product > .item.-star {
     margin-bottom: 10px;
