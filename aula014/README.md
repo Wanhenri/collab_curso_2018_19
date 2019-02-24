@@ -20,6 +20,7 @@ Aplicação com mesmo resultados:
 ```javascript
 $carrinho.textContent = 'Carrinho (' + ++valorInicial + ')';
 ```
+**Com template string**
 ```javascript
  $carrinho.textContent = `Carrinho (${++valorInicial})`;
 ```
