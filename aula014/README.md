@@ -11,6 +11,20 @@ valorInicial += 1;
 valorInicial++;
 ```
 
+### template string
+
+Aplicação com mesmo resultados:
+
+**Sem template string**
+
+```javascript
+$carrinho.textContent = 'Carrinho (' + ++valorInicial + ')';
+```
+```javascript
+ $carrinho.textContent = `Carrinho (${++valorInicial})`;
+```
+
+
 
 # Desafios
 
