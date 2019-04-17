@@ -28,6 +28,11 @@ git commit -m "descrição do commit"
 ```
 git push -u origin master
 ```
+Se aparecer essa mensagem de erro:  ! [rejected]        
+- master -> master (fetch first) 
+``` 
+git push -u --force origin master
+```
 ```
 git pull origin master
  ```
