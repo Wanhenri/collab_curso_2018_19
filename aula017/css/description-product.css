@@ -1,0 +1,134 @@
+.description-product {
+    color: #ffffff;
+    font-family: "Roboto", sans-serif; 
+   
+   
+}
+
+.description-product > .title {     
+    font-size: 25px; 
+    margin-bottom: 50px;   
+}
+
+.description-product > .item {
+    font-size: 20px;
+    margin-bottom: 28px;          
+}
+
+.description-product > .item.-heart {
+    position: absolute;
+    display: inline-block;
+    transform: translateX(-100%);
+    left:-47px;
+    top:5px;
+    cursor: pointer
+}
+
+.description-product .icon.-active {
+    display: none;
+}
+  
+.description-product > .item.-active .icon {
+    display: none;
+}
+  
+.description-product > .item.-active .icon.-active {
+    display: block;
+}
+
+
+
+.description-product  > .item.-heart:hover {
+    transform: translateX(-100%) scaleX(1.2) scaleY(1.2);
+}
+
+.description-product .star {
+    display: inline-block;
+  }
+  
+  .description-product .star.-active > .icon {
+    display: none;
+  }
+  
+  .description-product .star.-active > .-active {
+    display: block;
+  }
+
+.description-product > .item.-star {
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.description-product > .item.-star img:hover {
+    transform: translate(10%) scaleX(1.2) scaleY(1.2);
+    margin-right: 3px;
+  }
+
+.description-product > .item.-star + .item{
+    margin-left: 7px;
+}
+
+.description-product > .item.-info {
+    width: 200px;
+    text-align: right; 
+}
+
+.description-product > .item.-last{
+    margin-bottom: 72px;
+}
+
+.description-product  .contrast {
+    text-transform: uppercase;
+    float: left;
+}
+
+@media (max-width: 1310px) {
+    .description-product {
+        width: 50%;
+        min-width: 655px;
+        margin: 0 auto 60px;
+
+
+    }
+
+    .description-product > .title {
+        font-size: 35px;
+        text-align: center;
+    }
+
+    .description-product > .item.-star {
+        float: left;
+        margin-right: 10px;
+    }
+
+    .description-product > .item.-number {
+        padding-top: 4px;
+    }
+}
+
+@media (max-width: 720px) {
+    .description-product {
+        width: 90%;
+        min-width: auto;
+    }
+} 
+
+.description-product > .text {
+    font-size: 18px;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+.description-product > .text.-more{
+    margin-bottom: 0px;
+}
+
+.description-product .action {
+     color: inherit;
+     text-decoration: none;
+}
+
+
+ 
+
+
