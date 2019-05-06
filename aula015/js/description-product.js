@@ -1,26 +1,29 @@
-/* 
 
-1 - ter a janela (navegador / browser) na mão
-2 - localizar o html
-3 - Pegar o coração
-4 - Pegar clique no coraçao 
-5 - No instante que o usuario clicar, mostraremos um texto 'AE' na tela
-
-*/
 const $heart = document.querySelector('.-heart'); 
-
-const $stars = document.querySelector(".-star");
-
-$heart.addEventListener("click", handleClickHeart);
+const $stars = document.querySelectorAll('.star');
 
 
-$stars.addEventListener("click", handleClickStar);
+$heart.addEventListener("click", handleClick);
+$stars.forEach(function($star) {
+  
+  $star.addEventListener('click',handleClick);
+});
 
-function handleClickHeart() {
-    $heart.classList.toggle("-active");
+
+function handleClick() {
+    this.classList.toggle("-active");
   }
 
-
-function handleClickStar() {
-    $stars.classList.toggle("-active");
-  }
+  $stars.forEach(function($star, itemSelected) {
+    $star.addEventListener("click", starSelected);
+  
+    function starSelected() {
+      $stars.forEach(function(star, index) {
+        if (itemSelected >= index) {
+          star.classList.add("-active");
+        } else {
+          star.classList.remove("-active");
+        }
+      });
+    }
+  });
