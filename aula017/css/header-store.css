@@ -94,6 +94,10 @@
         background-color: #fff;
         color: #000;
      }
+    
+    .header-store .-active[type="search"]  {
+        transform: translateX(0);
+    }
 }
 
 @media (max-width: 530px) {
