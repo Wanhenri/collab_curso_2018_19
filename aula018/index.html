@@ -25,9 +25,16 @@
           <h1 class="title" >Logo</h1>
           <!--Busca-->
           <nav class="navigation">
-            <form class="input-search -active">
-              <input class="content " type="search" placeholder="Busca"   />
-              <input class="icon" type="image" src="img/search.svg">
+            <form class="input-search ">
+              <input class="content " type="search" placeholder="Busca"   /><!--
+            --><input
+               type="image" 
+               class="icon -open -active"  
+               src="img/search.svg"><!--
+            --><input 
+              type="image" 
+              class="icon -close"   
+              src="img/close.svg" />
             </form>            
             <a class="action" href="http://collabcode.training">Produtos</a>
             <a class="action" href="http://collabcode.training">Serviços</a>
@@ -38,12 +45,6 @@
     <figure class="photo-product">
       <img class="photo" src="img/fone.png" alt="Fone de ouvido">
     </figure>
-    
-    <!-- Feito de outra maneira
-    <div class="like-product">
-      <img src="img/heart.png" alt=" coração" />
-    </div>
-    -->
 
     <section class="wrap-product">
       <dl class="description-product">
@@ -113,7 +114,7 @@
 
     </div>
 
-    <script src="js/header-store.js"></script>
+    <script src="js/input-search.js"></script>
     <script src="js/description-product.js"></script>
     <script src="js/home.js"></script>
 
