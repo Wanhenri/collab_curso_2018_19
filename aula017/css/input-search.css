@@ -1,0 +1,16 @@
+@media (max-width: 955px) {
+.header-store [type="search"] {
+    position: absolute;
+    top:0;
+    left:0;
+    transform: translateX(-88%);
+    background-color: #fff;
+    color: #000;
+
+    transition: transform 200ms linear;
+    
+}
+.header-store .-active[type="search"] {
+    transition: transform 600ms cubic-bezier(0,0,0.96,1.26);
+    transform: translateX(0);
+}}
