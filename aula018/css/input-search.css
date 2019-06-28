@@ -1,0 +1,38 @@
+.input-search > .content {
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #fff;
+    color:inherit;   
+    font-family: Arial, "Roboto", sans-serif;
+    font-size: 20px;
+    margin-right: 65px;
+    padding: 8px;
+    width: 358px;
+    vertical-align: bottom;
+}
+
+.input-search >  .content::placeholder {
+    color: inherit;
+}
+
+@media (max-width: 955px) {
+    .input-search{
+        position: absolute;
+        top:0;
+        left:0;
+        transform: translateX(-88%);
+        transition: transform 200ms linear;
+
+    }
+    .input-search >  .content {
+
+        background-color: #fff;
+        color: #000;
+        transition: transform 200ms linear;
+
+    }
+    .input-search.-active {
+        transition: transform cubic-bezier(0,0,0.96,1.26);
+        transform: translateX(0);
+    }
+}
