@@ -17,45 +17,57 @@
     
 }
 
-.header-store .action {
-    text-decoration: none;
-    color: inherit;
-    margin-right: 60px;
-    display: inline-block;
-    border: none;
-}
-
-.header-store .action::after {
-    content: '';
-    display: block;
-    width: 0;
-    height: 2px;
-    background: #fff;
-  
-    transition: width .3s;
-  }
-  
-  .header-store .action:hover::after {
-    width: 100%;
-  }
-
-
-
-
 .header-store .navigation {
     font-size: 21px;    
     font-family: "Segoe UI","Roboto Condensed",Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
     float: right;    
 }
 
-.header-store .action.-last {
+
+
+.header-store .item {
+    display: inline-block;
+    margin-right: 60px;
+    padding-bottom: 8px;
+}
+
+
+.header-store .item.-menu {
+    display:none;
+}
+
+.header-store .item.-last {
     margin-right: 0;
 }
+
+.header-store .action {
+    text-decoration: none;
+    color: inherit;    
+    position: relative;
+    
+}
+
+
+.header-store .action::after {
+    content: '';
+    height: 1px;
+    width: 100%;
+    background: #fff;
+    position:absolute;
+    bottom: 0;
+    left: 0;
+    transform: scaleX(0);
+    transition: transform 200ms linear;
+    transform-origin: center left;
+  }
+  
+  .header-store .action:hover::after {
+    transform: scale(1);
+  }
 
 @media (max-width: 1310px) {
     .header-store {
         padding-right: 60px;
-       /* margin-bottom: 55px; */
     }
 }
 
@@ -84,21 +96,13 @@
 }
 
 @media (max-width: 530px) {
-    .header-store .action {
-       /* margin-right: 30px; */
-       display: inline-block;
-       width: 30%;
-       margin: 0 auto;
-    }
+    .header-store .item {
+       margin-right: 30px; 
 }
 
 @media (max-width: 465px){
-    .header-store .action {
-       /* margin-right: 15px; */
-       display: inline-block;
-       width: 30%;
-       margin: 0 auto;
-    }
+    .header-store .item {
+       margin-right: 15px;
 }
 
 @media (max-width: 375px){
@@ -106,7 +110,7 @@
         padding-left: 16px;
         padding-right: 16px
     }
-    .header-store .action {
+    .header-store .item {
         margin-right: 8px;
     }
 }
