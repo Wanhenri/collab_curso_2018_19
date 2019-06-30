@@ -126,7 +126,11 @@
         margin: 0;
         position: absolute;
         top:0;
-        right:0;
+        left:0;
+
+        transform: translateX(-100%);
+
+       
     }
     .header-store  .list{
         background-color: #fff;
@@ -140,6 +144,12 @@
         transform: translateX(100%);
 
     }
+
+    .header-store .list.-active{
+        transform: translateX(0);
+
+    }
+    
     .header-store .item {
         display: block;
     }
