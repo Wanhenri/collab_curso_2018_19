@@ -1,37 +1,45 @@
-/* 
+const $heart = document.querySelector(".-heart");
+const $stars = document.querySelectorAll(".star");
+const positionLast = $stars.length - 1;
 
-1 - ter a janela (navegador / browser) na mão
-2 - localizar o html
-3 - Pegar o coração
-4 - Pegar clique no coraçao 
-5 - No instante que o usuario clicar, mostraremos um texto 'AE' na tela
+$heart.addEventListener("click", handleClick);
 
-*/
+$stars.forEach(function($star, key) {
+  if(key == 0) {
+    $star.addEventListener("click", firstStar);
 
-const $heart = document.querySelector('.-heart'); 
+  } else if(key == positionLast) {
+    $star.addEventListener("click", lastStar);
 
-const $stars = document.querySelector(".-star");
-
-$heart.addEventListener("click", handleClickHeart);
-
-
-$stars.addEventListener("click", handleClickStar);
-
-//function handleClick() {
-//    // if ($heart.classList.contains('-active')) {
-//    //     $heart.classList.remove('-active');
-//    // } else {
-//    //     $heart.classList.add('-active');
-//    // }
-//    
-//    $heart.classList.toggle('-active');
-//}
-
-function handleClickHeart() {
-    $heart.classList.toggle("-active");
+  } else {
+    $star.addEventListener("click", function() {
+      middleStar(key);
+    })
   }
+})
 
+function handleClick() {
+  this.classList.toggle("-active");
+}
 
-function handleClickStar() {
-    $stars.classList.toggle("-active");
-  }
+function firstStar() {
+  $stars.forEach(function($star) {
+    $star.classList.remove("-active");
+  });
+}
+
+function middleStar(index) {
+  $stars.forEach(function($star, key) {
+    $star.classList.remove("-active");
+
+    if(key <= index) {
+      $star.classList.add("-active");
+    }
+  });
+}
+
+function lastStar() {
+  $stars.forEach(function($star) {
+    $star.classList.add("-active");
+  });
+}
