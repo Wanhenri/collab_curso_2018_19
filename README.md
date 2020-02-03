@@ -39,6 +39,7 @@ git pull origin master
 
 ##### Link sobre Git
 - https://rogerdudler.github.io/git-guide/index.pt_BR.html
+- https://learngitbranching.js.org/
 
 ---
 #### Excelente link para consultar o conteúdo do curso:
