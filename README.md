@@ -36,7 +36,9 @@ git push -u --force origin master
 ```
 git pull origin master
  ```
- 
+
+##### Link sobre Git
+- https://rogerdudler.github.io/git-guide/index.pt_BR.html
 
 ---
 #### Excelente link para consultar o conteúdo do curso:
