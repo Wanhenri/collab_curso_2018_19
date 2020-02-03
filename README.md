@@ -42,6 +42,8 @@ git pull origin master
 - https://learngitbranching.js.org/
 - https://github.com/pcottle/learnGitBranching
 - https://githowto.com/pt-BR/merging_back_to_master
+- https://githowto.com/
+- https://github.com/rogerdudler/git-guide
 
 ---
 #### Excelente link para consultar o conteúdo do curso:
