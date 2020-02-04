@@ -7,5 +7,7 @@ console.log($cardsWrapper);
 console.log($memoryCard);
 console.log($memoryCardFront);
 
-$root.insertAdjacentHTML("beforeend", $cardsWrapper)
+$root.insertAdjacentHTML("beforeend", $cardsWrapper);
+
+$cardsWrapper.insertAdjacentHTML("beforeend", $memoryCard);
 
