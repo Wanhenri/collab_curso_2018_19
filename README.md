@@ -1,5 +1,7 @@
 # collab_curso_2018_19
 
+teste
+
 ## Relacionado ao conteúdo prático e teórico curso da CollabCode
 
 <p>Anotações importantes sobre git:</p>
